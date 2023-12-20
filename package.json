@@ -13,7 +13,7 @@
     "doc": "jsdoc -c jsdoc.conf.json"
   },
   "keywords": [],
-  "author": "Sergius92739",
+  "author": "finchik",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.15.7",
